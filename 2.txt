@@ -1,0 +1,12 @@
+using System;
+					
+public class Program
+{
+	int[]num={0,0,0,0,0,0}
+	public static void Main()
+	{
+		for(int i=0;i<6;i++){
+			num[i]= int.Parse(Console.ReadLine());
+	}
+	ทำไม่ได้
+}
